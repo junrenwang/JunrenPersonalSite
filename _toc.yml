@@ -1,0 +1,18 @@
+format: jb-book
+root: intro
+parts:
+- caption: Projects
+  chapters:
+  - file: Projects/household_food_sharing_in_Zambia/index
+    title: Household Food Sharing in Zambia
+- caption: Mini Projects
+  chapters:
+  - file: MiniProjects/WebGL/index
+    title: WebGL 
+    sections:
+    - file: MiniProjects/WebGL/US_county_flow
+      title: US County Food Flow
+    - file: MiniProjects/WebGL/Precipitation
+  - file: MiniProjects/GoogleEarthEngine/index
+    title: Google Earth Engine 
+
